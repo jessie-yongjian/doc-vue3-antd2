@@ -1,3 +1,14 @@
+---
+layout:       post
+title:        "Form 表单组件"
+author:       "xxx"
+header-style: text
+catalog:      true
+tags:
+    - Web
+    - JavaScript
+---
+
 # Form 表单组件
 
 对 `antv` 的 form 组件进行封装，扩展一些常用的功能
